@@ -2,7 +2,8 @@
 
 A webextensions add-on
 ([Firefox](https://addons.mozilla.org/en-US/firefox/addon/enumerate-site/)
-or [Chrome]()) to obtain search results directly from the URL bar for a
+or [Chrome](https://chrome.google.com/webstore/detail/enumerate-site/fjblhmfebpidlocdkciojgcmgedmieni))
+to obtain search results directly from the URL bar for a
 search confined to the site within the currently active tab.
 
 No need to first go to the search results page (unless you need
