@@ -34,5 +34,3 @@ For a generic search with results added to the URL, see
 
 1. Populate results based on Mediawiki API (where headers could advertise
     Mediawiki support?)
-1. Add option to remove "Go to the full search results" in favor of one
-    more entry (user can still access by normal search)
