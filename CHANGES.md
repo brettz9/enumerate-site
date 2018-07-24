@@ -1,5 +1,9 @@
 # CHANGES
 
+## 0.1.2
+
+- Fix (Chrome): Avoid problematic use of Chrome URLs (e.g., About tab)
+
 ## 0.1.1
 
 - Fix: Better parsing (Grab more genuine positives, avoid missing
